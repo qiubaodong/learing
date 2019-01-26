@@ -1,2 +1,2 @@
 廖雪峰GIT教程第一次成功 11
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
